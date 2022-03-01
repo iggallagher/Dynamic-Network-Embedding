@@ -1,5 +1,8 @@
 # Dynamic-Network-Embedding
 
+This repository contains a collection of Python notebooks reproducing the synthetic and real data examples from the NeurIPS paper "Spectral embedding for dynamic networks with stability guarantees":
+Gallagher, I., Jones, A., & Rubin-Delanchy, P. (2021). Spectral embedding for dynamic networks with stability guarantees. Advances in Neural Information Processing Systems, 34.
+
 ### Embedding Comparison.ipynb
 Code used in Section 2 (Motivating example). The Python notebook provides functions for UASE, omnibus and independent spectral embedding to reproduce Figure 2.
 
