@@ -4,7 +4,7 @@ This repository contains a collection of Python notebooks reproducing the synthe
 
 Gallagher, I., Jones, A., & Rubin-Delanchy, P. (2021). Spectral embedding for dynamic networks with stability guarantees. Advances in Neural Information Processing Systems, 34.
 
-The algorithms described in these notebooks have now been included into the <a href="https://github.com/iggallagher/Spectral-Embedding">Spectral-Embedding<\a> package, which includes many other spectral embedding techniques.
+The algorithms described in these notebooks have now been included into the <a href="https://github.com/iggallagher/Spectral-Embedding">Spectral-Embedding</a> package, which includes many other spectral embedding techniques.
 
 ### Embedding Comparison.ipynb
 Code used in Section 2 (Motivating example). The Python notebook provides functions for UASE, omnibus and independent spectral embedding to reproduce Figure 2.
