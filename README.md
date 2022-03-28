@@ -7,7 +7,7 @@ Gallagher, I., Jones, A., & Rubin-Delanchy, P. (2021). Spectral embedding for dy
 The algorithms described in these notebooks have now been included into the <a href="https://github.com/iggallagher/Spectral-Embedding">Spectral-Embedding</a> package, which includes many other spectral embedding techniques.
 
 ### Embedding Comparison.ipynb
-Code used in Section 2 (Motivating example). The Python notebook provides functions for UASE, omnibus and independent spectral embedding to reproduce Figure 2.
+Code used in Section 2 (Motivating example). The Python notebook provides functions for UASE, omnibus and independent spectral embedding to reproduce Figure 2. A new version called Embedding Comparison node2vec.ipynb by Ed Davis has since been added to include a dynamic embedding version of node2vec.
 
 ### Lyon Primary School.ipynb
 Code used in Section 5 (Real data). The Python notebook computes the UASE for the unfolded adjacency matrix using the Lyon primary school social interaction data in the file ia-primary-school-proximity-attr.edges. The code reproduces the spectral embedding plot in Figure 2, the student clustering analysis resulting in Figure 3 and the classroom classification analysis resulting in Figure 4 in the Appendix.
